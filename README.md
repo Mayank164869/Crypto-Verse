@@ -1,4 +1,4 @@
-Crypto-Verse : a simple application to check daily crypto trends, news and other information regarding various crypto currencies
+Crypto-Verse : a simple application to check daily crypto trends, news and other information regarding various crypto currencies - by Mayank Jindal
 
 
 
