@@ -6,6 +6,7 @@ Crypto-Verse : a simple application to check daily crypto trends, news and other
 
 
 Built With
+
    HTML, CSS
    ,JAVASCRIPT
    ,REACT, REDUX
@@ -13,6 +14,7 @@ Built With
    ,RAPID API
 
 Features
+
    Provides Charts for Different Crypto Currencies
    Provides News about crytocurrencies.
    Gives information about all the cryptocurrencies exchanges
